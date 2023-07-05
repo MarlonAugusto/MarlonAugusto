@@ -33,7 +33,7 @@
 <a href="https://github.com/MarlonAugusto/">
   <img height=150 src="https://github-readme-stats.vercel.app/api?username=MarlonAugusto&show_icons=true&theme=dark&include_all_commits=true&count_private=true&rank_icon=github&show_icons=false&hide_border=true&card_width=225">
   <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs?username=MarlonAugusto&langs_count=9&theme=dark&size_weight=0.5&count_weight=0.5&hide_border=true&card_width=225">
-  <img height=150 src="https://github-readme-streak-stats.herokuapp.com/?user=MarlonAugusto&theme=dark&hide_border=true&card_width=350"/>
+  <img height=150 src="https://github-readme-streak-stats.herokuapp.com/?user=MarlonAugusto&theme=dark&hide_border=true&card_width=340"/>
 </a>
 
 
