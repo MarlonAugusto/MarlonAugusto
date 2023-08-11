@@ -1,5 +1,4 @@
-<h1 align="center">  Hello!  <BR> I'm Marlon Augusto
-</h1>
+<h1 align="center">  Hello, I'm Marlon Augusto </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MarlonAugusto&label=Profile%20views&color=666666&style=flat" alt="MarlonAugusto" /> </p>
 <img align="right" alt="Coding" width="300" src="https://i.imgur.com/CGOpgi4.png"/>
 
