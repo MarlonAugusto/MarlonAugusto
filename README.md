@@ -1,8 +1,8 @@
 <h2>  Hello everybody </h2>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MarlonAugusto&label=Profile%20views&color=666666&style=flat" alt="MarlonAugusto" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=MarlonAugusto&label=Profile%20views&color=666666&style=flat" alt="MarlonAugusto" /> </p> -->
 <img align="right" alt="Coding" width="300" src="https://i.imgur.com/CGOpgi4.png"/>
 
-- 🌱 I’m currently learning **_Typescript_** and **_NestJs_**
+- 🌱 I’m currently learning **_Typescript_**, **_Angular_** and **_NestJs_**
 
 - 📫 How to reach me by <a href="mailto:l.marlonaugusto@gmail.com">**Email**</a>
 
@@ -24,8 +24,9 @@
   <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg" alt="Css3" width="40" height="40"/> </a> 
   <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="Javascript" width="40" height="40"/> </a> 
   <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" alt="Typescript" width="40" height="40"/>  </a> 
-  <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="NodeJs" width="40" height="40"/></a> 
+  <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg" alt="Angular" width="40" height="40"/> </a> 
   <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="NestJs" width="40" height="40"/> </a> 
+  <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="NodeJs" width="40" height="40"/></a> 
   <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-line.svg" alt="Csharp" width="40" height="40"/> </a> 
   <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" alt="Git" width="40" height="40"/> </a> 
 </p>
