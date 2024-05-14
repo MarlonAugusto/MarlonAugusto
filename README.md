@@ -38,7 +38,7 @@
 <!--  <img height=150 src="https://github-readme-stats.vercel.app/api?username=MarlonAugusto&show_icons=true&theme=dark&count_private=true&rank_icon=github&show_icons=false&hide_border=true&card_width=500">
 <img height=150 src="https://github-readme-streak-stats.herokuapp.com/?user=MarlonAugusto&theme=dark&hide_border=true&mode=weekly&card_width=270"/> -->
   
-  <img height=220 src="https://github-readme-stats.vercel.app/api/top-langs?username=MarlonAugusto&langs_count=9&theme=dark&size_weight=0.5&count_weight=0.5&hide_border=true&card_width=500">
+  <img height=300 src="https://github-readme-stats.vercel.app/api/top-langs?username=MarlonAugusto&langs_count=5&theme=transparent&card_width=500&title_color=C5D1DE&text_color=5CA350&border_color=22272E&custom_title=My%20Most%20Used%20Languages">
 </a>
 
 
