@@ -2,7 +2,7 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=MarlonAugusto&label=Profile%20views&color=666666&style=flat" alt="MarlonAugusto" /> </p> -->
 <img align="right" alt="Coding" width="300" src="https://i.imgur.com/CGOpgi4.png"/>
 
-- 🌱 I’m currently learning **_Angular_** and **_NestJS_**
+- 🌱 I’m currently learning **_React_** and **_NestJS_**
 
 - 📫 How to reach me by <a href="mailto:l.marlonaugusto@gmail.com">**Email**</a>
 
@@ -26,9 +26,9 @@
   <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg" alt="Css3" width="40" height="40"/> </a> 
   <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="Javascript" width="40" height="40"/> </a> 
   <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" alt="Typescript" width="40" height="40"/>  </a> 
-  <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-line.svg" alt="Csharp" width="40" height="40"/> </a> 
-  <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg" alt="Angular" width="40" height="40"/> </a> 
+  <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/> </a> 
   <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" alt="NestJs" width="40" height="40"/> </a> 
+  <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-line.svg" alt="Csharp" width="40" height="40"/> </a>
    <!-- 
   <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="NodeJs" width="40" height="40"/></a> 
   -->
@@ -38,7 +38,7 @@
 <!--  <img height=150 src="https://github-readme-stats.vercel.app/api?username=MarlonAugusto&show_icons=true&theme=dark&count_private=true&rank_icon=github&show_icons=false&hide_border=true&card_width=500">
 <img height=150 src="https://github-readme-streak-stats.herokuapp.com/?user=MarlonAugusto&theme=dark&hide_border=true&mode=weekly&card_width=270"/> -->
   
-  <img height=300 src="https://github-readme-stats.vercel.app/api/top-langs?username=MarlonAugusto&langs_count=5&theme=transparent&card_width=500&title_color=C5D1DE&text_color=5CA350&border_color=22272E&custom_title=My%20Most%20Used%20Languages">
+  <img height=300 src="https://github-readme-stats.vercel.app/api/top-langs?username=MarlonAugusto&langs_count=5&theme=transparent&card_width=500&text_color=C5D1DE&border_color=22272E&custom_title=My%20Most%20Used%20Languages">
 </a>
 
 
