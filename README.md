@@ -2,7 +2,7 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=MarlonAugusto&label=Profile%20views&color=666666&style=flat" alt="MarlonAugusto" /> </p> -->
 <img align="right" alt="Coding" width="300" src="https://i.imgur.com/CGOpgi4.png"/>
 
-- 🌱 I’m currently learning **_React_** and **_NestJS_**
+- 🌱 I’m currently working with **_NodeJS_**, **_Typescript_** and **_React_**
 
 - 📫 How to reach me by <a href="mailto:l.marlonaugusto@gmail.com">**Email**</a>
 
